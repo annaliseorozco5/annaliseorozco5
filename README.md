@@ -1,5 +1,5 @@
 <p align="center"><i>Marketing strategist exploring the space where data meets storytelling</i></p>
-# Hi, I'm Annalise 👋  
+Hi, I'm Annalise 👋  
 Marketing strategist passionate about the intersection of creativity, data, and AI.  
 I love turning insights into stories that drive growth and connection.  
 
